@@ -26,9 +26,13 @@ body {
 header, footer { 
     color: #ce767c;
     text-align: center;
-    padding: 20px;
+    padding: 20px 0;
     background-color: #4a4f56;
     font-size: 1.3em;
+}
+
+footer {
+    margin: 40px;
 }
 
 h1, .title {
