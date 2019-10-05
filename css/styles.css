@@ -102,5 +102,5 @@ main {
 
 .list__item input:checked + span {
     text-decoration: line-through;
-    opacity .7;
+    opacity: .7;
 }
